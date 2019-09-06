@@ -1,1 +1,1 @@
-web: gunicorn Tumor recognition.wsgi 
+web: gunicorn djangoheroku.wsgi 
