@@ -1,1 +1,1 @@
-web: gunicorn Brain - Keras.wsgi 
+web: gunicorn djangoheroku.wsgi
