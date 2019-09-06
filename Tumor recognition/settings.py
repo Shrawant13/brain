@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'Tumor recognition.urls'
+ROOT_URLCONF = 'mri.urls'
 
 TEMPLATES = [
     {

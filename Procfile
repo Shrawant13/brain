@@ -1,1 +1,1 @@
-web: gunicorn soft.wsgi 
+web: gunicorn mri.wsgi 
