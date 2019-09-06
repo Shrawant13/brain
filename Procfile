@@ -1,1 +1,1 @@
-web: gunicorn keras.wsgi 
+web: gunicorn .wsgi 
