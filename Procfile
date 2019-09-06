@@ -1,1 +1,1 @@
-web: gunicorn Tumor recognition.wsgi
+web: gunicorn mri.wsgi --log-file -
