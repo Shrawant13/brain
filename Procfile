@@ -1,1 +1,1 @@
-web: gunicorn mri.wsgi --log-file -
+web: gunicorn mri.wsgi 
