@@ -1,0 +1,1 @@
+web: gunicorn herokudjangobrainapp.wsgi --log-file -
