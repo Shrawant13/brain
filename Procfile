@@ -1,1 +1,1 @@
-web: python3 manage.py run_gunicorn
+web: gunicorn tumorrecognition.wsgi.application --log-file -
