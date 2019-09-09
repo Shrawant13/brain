@@ -1,1 +1,1 @@
-web: tumorrecognition.wsgi.application --log-file -
+web: tumorrecognition.wsgi --log-file -
