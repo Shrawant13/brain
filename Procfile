@@ -1,1 +1,1 @@
-web: gunicorn herokudjangobrainapp.wsgi.application --log-file -
+web: tumorrecognition.wsgi --log-file -
