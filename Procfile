@@ -1,1 +1,1 @@
-web: gunicorn herokudjangobrainapp:application --log-file -
+web: gunicorn herokudjangobrainapp.wsgi.application --log-file -
