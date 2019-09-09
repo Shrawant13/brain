@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'Tumor recognition.urls'
+ROOT_URLCONF = 'tumorrecognition.urls'
 
 TEMPLATES = [
     {
@@ -69,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'Tumor recognition.wsgi.application'
+WSGI_APPLICATION = 'tumorrecognition.wsgi.application'
 
 
 # Database
